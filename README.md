@@ -2,6 +2,7 @@
 
 This macro and corresponding In-Room Control sample demonstrates how to display different sensors in a panel with a single button on the screen.
 
+<img width="596" alt="Navigator" src="https://user-images.githubusercontent.com/40596538/202405151-cc1161e9-a32e-4495-b9ff-304eb9ffd6fa.png">
 <img width="596" alt="Sensor1" src="https://user-images.githubusercontent.com/40596538/202400137-7665d92d-2735-4cfb-9094-18d671469c08.png">
 <img width="596" alt="Sensor2" src="https://user-images.githubusercontent.com/40596538/202400217-0dd93cfc-4f4c-4f0e-9ea7-ce819431c06c.png">
 
