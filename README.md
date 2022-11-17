@@ -7,7 +7,7 @@ This macro and corresponding In-Room Control sample demonstrates how to display 
 
 ## Requirements
 
-+ Cisco Room Kit + Navigator
++ Cisco Room Kit + Cisco Room Navigator
 + Firmware CE9.15.0 or newer (Some macro using newer features require newer firmware)
 
 ## Disclaimer
@@ -16,11 +16,11 @@ This example is only a sample and is **NOT guaranteed to be bug free and product
 
 ## Features
 
-- RoomAnalytics AmbientTemperature
-- RoomAnalytics RelativeHumidity
-- RoomAnalytics AmbientNoise Level A
-- RoomAnalytics Sound Level A
-- RoomAnalytics AirQuality Status
-- RoomAnalytics PeopleCount Current
-- RoomAnalytics PeoplePresence
-- RoomAnalytics Close Engagement
+- RoomAnalytics AmbientTemperature (Room Navigator)
+- RoomAnalytics RelativeHumidity (Room Navigator)
+- RoomAnalytics AmbientNoise Level A (Room Kit)
+- RoomAnalytics Sound Level A (Room Kit)
+- RoomAnalytics AirQuality Status (Room Navigator)
+- RoomAnalytics PeopleCount Current (Room Kit)
+- RoomAnalytics PeoplePresence (Room Kit)
+- RoomAnalytics Close Engagement (Room Kit)
